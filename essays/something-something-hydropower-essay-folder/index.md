@@ -1,7 +1,7 @@
 ---
-title: TBD
+title: Nuclear Energy
 layout: base
-author: Diego Vejar
+author: Your Name
 date: 2026-01-01
 header-image: images/rancho-seco.jpg
 header-title: Nuclear Energy
@@ -19,7 +19,7 @@ tags:
   - civilian
 ---
 
-# essay topic to be decided
+# Nuclear Energy
 
 This is sample content. Replace it with your essay, images about your topic, and at the end an image of your 3D-printed object. I am Diego. 
 
