@@ -1,38 +1,38 @@
 ---
-title: TBD
+title: Hydropower and Modern Energy
 layout: base
 author: Diego Vejar
 date: 2026-01-01
 header-image: images/rancho-seco.jpg
-header-title: Nuclear Energy
+header-title: Hydropower and Modern Energy
 header-tier: banner
 header-position: center 38%
-thumbnail: images/first-four-bulbs.jpeg
-summary: The first four light bulbs powered by nuclear energy in 1951.
+thumbnail: images/old_water_mill.jpg
+summary: A typical design for a standard wooden watermill.
 geo: [43.5197, -112.0469]
 placename: Argonne National Laboratory in Idaho
 medium: 
-object-date: 1951
+object-date: 280 - 220 BCE
 collection: 
 tags:
   - nuclear
   - civilian
 ---
 
-# essay topic to be decided
+# Hydropower, and how the Waterwheel Revolutionized Modern Aspects of Energy Production
 
-This is sample content. Replace it with your essay, images about your topic, and at the end an image of your 3D-printed object. I am Diego. 
+Hydropower may be one of the lesser-discussed forms of energy production, but without the early developments into the practice, many current forms of producing power would be vastly different than they are today.
 
 {% include images/figure.html
-  image-path="images/first-four-bulbs.jpeg"
+  image-path="images/old_water_mill.jpg"
   image-width="55%"
-  alt-text="The first four light bulbs powered by nuclear energy in 1951."
-  caption="The first four light bulbs powered by nuclear energy in 1951. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:First_four_nuclear_lit_bulbs.jpeg), open access."
+  alt-text="A standard wooden watermill, beside a river."
+  caption="A standard wooden watermill. [Adobe Stock](https://stock.adobe.com/search?k=water+mill&asset_id=458852769File:First_four_nuclear_lit_bulbs.jpeg), open access."
 %}
 
 
 
-This is sample text that you will replace. Your essay on a particular topic in the History of Energy will explain the background and the object you chose to 3D print. The assignment has been designed with twofold intent in mind. First, quite simply the idea is to introduce students to digital humanities and its potential in learning and pedagogical skill set in a upper division class. Second, students will be encouraged to consider the modes and mediums through which a traditional research paper, and all the skills that go into it, can be transferred to other aspects of critical analysis. Students will consider a particular object – the precise nature and shape of which will be decided in consultation with the class instructor – and how it embodies some of the salient themes in this class on history of energy. The object could be specific to a particular society, culture or form of technology but must explore an illustrative example of a history that has not been covered in this class. 
+For this exhibit in the History of Energy, I have chosen to display the late=and-great, tried-and-true Waterwheel, often used in watermills. The waterwheel harnessed the kinetic energies from local bodies of water to operate simple gear-based mechanism, such as simple grain mills and pulley systems. In more recent times, the waterwheel is still used but as a component within a greater system. For example, Nuclear Power utilizes nuclear energy emission to heat water, which creates kinetic steam the pushes smaller waterwheels to produce energy en masse.
 
 This is how you will create footnotes on your webpage.[^1]
 
