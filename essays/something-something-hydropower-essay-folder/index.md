@@ -38,9 +38,16 @@ This is how you will create footnotes on your webpage.[^1]
 
 [^1]: Author, *Title* (Publisher, Year), 00.
 
-## This is a section header - replace this text with a section title for your web essay
+## The Evolution of the Waterwheel in the Modern Day
 
-This is sample text that you will replace. You will be expected to think about an object to your topic in the History of Energy. Then you will trace online an image that could best help generate a 3D printed object. Your own website will be under construction and published via GitHub. 
+copypasted 500 word blurb on nuclear turbines, make side reference to "nuclear power is steam power but different lololol"
+
+{% include images/figure.html
+  image-path="images/nucelar_cycle_diagram.png"
+  image-width="55%"
+  alt-text="A diagram depicting a standard nuclear steam power cycle, with emphasis on the central turbine."
+  caption="A diagram depicting a standard nuclear steam power cycle, with emphasis on the central turbine. [LibreTexts Biology](https://www.energy.gov/sites/default/files/styles/full_article_width/public/2019/02/f59/Pressurized_Water_Reactor%201200%20x%20900-01_0.png?itok=0i6xJIWK), open access."
+%}
 
 ## This is a section header - replace this text with a section title for your web essay
 
